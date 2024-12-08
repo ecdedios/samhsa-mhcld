@@ -10,6 +10,8 @@ Exploratory data analyses, classification, and interactive dashboard.
 
 https://www.samhsa.gov/data/data-we-collect/mh-cld/datafiles
 
+## Interactive Dashboard
+
 ## Reference
 
 https://www.samhsa.gov/data/publication/factors-associated-high-risk-substance-use-persons-receiving-psychiatric-treatment
@@ -22,7 +24,7 @@ Written in Python 3.12. Libraries/packages used:
 - notebook
 - pandas
 
-To see the project in action, open and run the notebooks.
+To see the project in action, open and run the notebooks or view and interact with the dashboard.
 
 ## Meta
 
