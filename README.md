@@ -23,6 +23,9 @@ Written in Python 3.12. Libraries/packages used:
 - power bi
 - notebook
 - pandas
+- pyarrowg
+- scikit-learn
+- xgboost
 
 To see the project in action, open and run the notebooks or view and interact with the dashboard.
 
