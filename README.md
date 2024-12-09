@@ -23,6 +23,8 @@ Written in Python 3.12. Libraries/packages used:
 - power bi
 - notebook
 - pandas
+- matplotlib
+- seaborn
 - pyarrowg
 - scikit-learn
 - xgboost
