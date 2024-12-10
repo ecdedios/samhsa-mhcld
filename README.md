@@ -10,7 +10,19 @@ Exploratory data analyses, classification, and interactive dashboard.
 
 https://www.samhsa.gov/data/data-we-collect/mh-cld/datafiles
 
+## Findings
+
+The most interesting insight is the rate of alcohol and substance disorder among the American Indian/Alaska Native group.
+
+![Matplotlib](https://github.com/ecdedios/samhsa-mhcld/blob/main/viz/race_and_alcohol_substance_abuse1.png)
+
+![Power BI](https://github.com/ecdedios/samhsa-mhcld/blob/main/viz/race_and_alcohol_substance_abuse2.png)
+
 ## Interactive Dashboard
+
+![Power BI Dashboard](https://github.com/ecdedios/samhsa-mhcld/blob/main/viz/dashboard.png)
+
+[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVjYWQyZGQtYjFjZS00NDFiLWFiNDQtM2YwOGU5NzgxZDJmIiwidCI6IjAwZmI2OGUxLWQ5ZTktNGZiOC04MzdjLTNhMzcxMmYyZGNlYiJ9)
 
 ## Reference
 
