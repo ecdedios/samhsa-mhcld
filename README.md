@@ -1,6 +1,6 @@
 # SAMHSA Mental Health Client Level Data 2013-2022
 
-> Exploration of Substance Abuse and Mental Health Services Administration's Mental Health Client Level Data dated from 2013 to 2022.
+> Work in progress! Exploration of Substance Abuse and Mental Health Services Administration's Mental Health Client Level Data dated from 2013 to 2022.
 
 ## Project Description
 
